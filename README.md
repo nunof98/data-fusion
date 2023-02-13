@@ -23,27 +23,26 @@ The dataset must have at least **5 features** (columns with different characteri
 
 ## Project Requirements 
 
-  (1) Analysis of Dataset Features.
-  (2) Preparation of the data to put into an AI model.
-  (3) Study of the most suitable Ai model for the chosen dataset.
-  (4) Application of the selected Ai model to the dataset with and without the application of PCA/LDA techniques.
-  (5) Analysis of the Ai model training (Confusion matrix, learning curves, etc...).
-  (6) Study of the most important features of the dataset (feature importance) to improve the accuracy of the Ai model.
-  (7) Feature Importance self Obtained. (By own algorithms)
+  (1) Analysis of Dataset Features.\
+  (2) Preparation of the data to put into an AI model.\
+  (3) Study of the most suitable Ai model for the chosen dataset.\
+  (4) Application of the selected Ai model to the dataset with and without the application of PCA/LDA techniques.\
+  (5) Analysis of the Ai model training (Confusion matrix, learning curves, etc...).\
+  (6) Study of the most important features of the dataset (feature importance) to improve the accuracy of the Ai model.\
+  (7) Feature Importance self Obtained. (By own algorithms).
 
 ## Valorization of the Process
 
-  (8) Hardware for acquiring the dataset.
+  (8) Hardware for acquiring the dataset.\
   (9) Application of data combination techniques (example: data alignment,
-  downsampling/upsampling, etc...).
-  (10) Application of data quality improvement techniques (example: filters).
+  downsampling/upsampling, etc...).\
+  (10) Application of data quality improvement techniques (example: filters).\
   (11) Other approaches...
  
-● Code in Python
-
+## Characteristics
+● Code in Python.\
 ● Identification and explanation of the options taken, framing them in the various topics
-taught in class.
-
+taught in class.\
 ● Result of the classifiers trained and comments, in each step of the algorithm (graphical representations should
 be given preference).
 
